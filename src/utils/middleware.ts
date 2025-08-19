@@ -1,7 +1,7 @@
 import { createMiddleware } from "@tanstack/react-start";
 import { getWebRequest } from "@tanstack/react-start/server";
-import { auth } from "./auth";
 import { redirect } from "@tanstack/react-router";
+import { auth } from "~/features/auth/server/auth";
 
 export const isAuthenticated = createMiddleware({
   type: "function",

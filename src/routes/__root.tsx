@@ -13,7 +13,7 @@ import { DefaultCatchBoundary } from "~/components/DefaultCatchBoundary";
 import { NotFound } from "~/components/NotFound";
 import appCss from "~/styles/app.css?url";
 import { seo } from "~/utils/seo";
-import { authClient } from "~/lib/auth-client";
+import { authClient } from "~/features/auth/lib/auth-client";
 import { ThemeProvider } from "~/components/ThemeProvider";
 import { Header } from "~/components/Header";
 import { Footer } from "~/components/Footer";

@@ -1,5 +1,5 @@
-import { auth } from "~/utils/auth";
 import { createServerFileRoute } from "@tanstack/react-start/server";
+import { auth } from "~/features/auth/server/auth";
 
 export const ServerRoute = createServerFileRoute("/api/auth/$").methods({
   GET: ({ request }) => {

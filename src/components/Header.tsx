@@ -7,7 +7,7 @@ import {
   DropdownMenuItem,
 } from "~/components/ui/dropdown-menu";
 import { Sheet, SheetContent, SheetTrigger } from "~/components/ui/sheet";
-import { authClient } from "~/lib/auth-client";
+import { authClient } from "~/features/auth/lib/auth-client";
 import { Link } from "@tanstack/react-router";
 import { Button } from "./ui/button";
 import { Menu, Github } from "lucide-react";

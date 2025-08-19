@@ -1,6 +1,6 @@
 import { getWebRequest } from "@tanstack/react-start/server";
-import { auth } from "./auth";
 import { isAdminEmail } from "~/lib/config";
+import { auth } from "../server/auth";
 
 export async function isUserAdmin(): Promise<boolean> {
   const request = getWebRequest();
