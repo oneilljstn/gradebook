@@ -1,5 +1,5 @@
 export const ADMIN_CONFIG = {
-  ADMIN_EMAIL: "webdevcody@gmail.com",
+  ADMIN_EMAIL: "oneilljstn@gmail.com",
 } as const;
 
 export const isAdminEmail = (email: string | null | undefined): boolean => {

@@ -5,85 +5,8 @@
     {
       "idx": 0,
       "version": "7",
-      "when": 1752462403260,
-      "tag": "0000_romantic_firebird",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "7",
-      "when": 1752462642014,
-      "tag": "0001_wooden_raza",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "7",
-      "when": 1752463185745,
-      "tag": "0002_chilly_star_brand",
-      "breakpoints": true
-    },
-    {
-      "idx": 3,
-      "version": "7",
-      "when": 1752588340262,
-      "tag": "0003_marvelous_scarlet_witch",
-      "breakpoints": true
-    },
-    {
-      "idx": 4,
-      "version": "7",
-      "when": 1752671185737,
-      "tag": "0004_blue_the_twelve",
-      "breakpoints": true
-    },
-    {
-      "idx": 5,
-      "version": "7",
-      "when": 1752755587426,
-      "tag": "0005_lucky_lethal_legion",
-      "breakpoints": true
-    },
-    {
-      "idx": 6,
-      "version": "7",
-      "when": 1752757326978,
-      "tag": "0006_amusing_nehzno",
-      "breakpoints": true
-    },
-    {
-      "idx": 7,
-      "version": "7",
-      "when": 1752883190812,
-      "tag": "0007_gray_bushwacker",
-      "breakpoints": true
-    },
-    {
-      "idx": 8,
-      "version": "7",
-      "when": 1753105418819,
-      "tag": "0008_nice_betty_ross",
-      "breakpoints": true
-    },
-    {
-      "idx": 9,
-      "version": "7",
-      "when": 1753193788580,
-      "tag": "0009_strange_the_fallen",
-      "breakpoints": true
-    },
-    {
-      "idx": 10,
-      "version": "7",
-      "when": 1754074876545,
-      "tag": "0010_cold_toad_men",
-      "breakpoints": true
-    },
-    {
-      "idx": 11,
-      "version": "7",
-      "when": 1754075873347,
-      "tag": "0011_overrated_sandman",
+      "when": 1755580686820,
+      "tag": "0000_smart_justice",
       "breakpoints": true
     }
   ]
