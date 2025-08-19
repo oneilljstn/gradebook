@@ -1,6 +1,6 @@
 # Setup
 
-1. `npm i`
+1. `yarn`
 2. `docker compose up`
-3. `npm run db:migrate`
-4. `npm run dev`
+3. `yarn run db:migrate`
+4. `yarn run dev`
