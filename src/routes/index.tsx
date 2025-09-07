@@ -22,10 +22,8 @@ function Home() {
           <span>Email: {session?.user?.email}</span>
           <span>Name: {session?.user?.name}</span>
           <span>Is Admin: {isAdmin ? "Yes" : "No"}</span>
-          <span>Image: {session?.user?.image}</span>
           <span>ID: {session?.user?.id}</span>
           <span>Session ID: {session?.session?.id}</span>
-          <span>Session: {JSON.stringify(session?.session)}</span>
         </div>
       </div>
     </div>
